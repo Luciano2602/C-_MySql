@@ -41,13 +41,16 @@ namespace ExMySql
         public List<ObjetoTransferencia> ListarTransportadoras(string nomeTrans)
         {
 
-            _SQL = "select * from transportadoras where nometransportadora like '%@nometransportadora%' ";
+            //_SQL = "select * from transportadoras where nometransportadora like '%+@nometransportadora+%' ";
+            _SQL = "select * from transportadoras where nometransportadora like '%"+nomeTrans+"%' ";
+
 
             cmd = new MySqlCommand();
             cmd.Connection = AcessoDados.Conectar();
 
-            cmd.Parameters.Add("@nometransportadora", MySqlDbType.VarChar, 50).Value = nomeTrans;
-
+            //cmd.Parameters.Add("@nometransportadora", MySqlDbType.VarChar, 50).Value = nomeTrans;
+            //cmd.Parameters.AddWithValue("@nometransportadora", nomeTrans);
+                
             cmd.CommandText = _SQL;
 
             dr = cmd.ExecuteReader();
