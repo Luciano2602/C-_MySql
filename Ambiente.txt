@@ -1,0 +1,6 @@
+baixar o conectores do MySQL 
+
+https://dev.mysql.com/downloads/file/?id=475543 
+
+no vs
+add referencias em Extensions MySql.Data

@@ -1,0 +1,11 @@
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\bin\Debug\ExMySql.exe.config
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\bin\Debug\ExMySql.exe
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\bin\Debug\ExMySql.pdb
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\bin\Debug\MySql.Data.dll
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\bin\Debug\MySql.Data.xml
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.csprojResolveAssemblyReference.cache
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.Form1.resources
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.Properties.Resources.resources
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.csproj.GenerateResource.Cache
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.exe
+c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.pdb
