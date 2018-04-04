@@ -1,0 +1,39 @@
+1° vá na pasta onde vamos iniciar o versionamento do projeto
+criar um repositorio novo
+
+git init <- gera um repositorio vazio na pasta selecionada
+
+nesse caso, o comando cria uma pasta chamada .git, na raiz do diretório
+
+* indentificando o usuario
+git config --global user.name"seuNomeNoGit"
+
+* identificando seu e-mail do git
+git config --global user.name"seuEmailNoGit"
+
+* vendo o status do projeto, o que tiver em vermelho é o que não subiu
+* cor verde, pronto para ser versionado
+git status
+
+* Levando os arquivos para area de stage, para ficarem pronto para
+* irem para uma versao
+git add .
+
+
+* gravando uma versao o -m é uma mensagem para falar o que foi feito
+git commit -m "versao 1"
+
+* para ver o historico do projeto
+git log
+
+* associando um projeto no meu pc a meu git hub, mas antes temos que criar
+*um repositorio
+git remote add origin https://github.com/Luciano2602/cursomc.git
+
+* inserir meu cód no repositorio do git
+git push -u origin master
+obs: depois de usar o -u origin master, não precisa usa-lo mas
+o git push é o sufucuente
+
+*clonando um projeto, va na pasta onde quer copiar, e inicialize o git bash
+git clone https://github.com/cakephp/app.git

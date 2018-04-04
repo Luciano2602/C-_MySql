@@ -1,0 +1,7 @@
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\teste\bin\Debug\teste.dll
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\teste\bin\Debug\teste.pdb
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\teste\obj\Debug\teste.teste.resources
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\teste\obj\Debug\teste.csproj.GenerateResource.Cache
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\teste\obj\Debug\teste.dll
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\teste\obj\Debug\teste.pdb

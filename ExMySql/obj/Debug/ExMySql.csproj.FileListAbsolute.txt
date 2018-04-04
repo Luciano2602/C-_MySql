@@ -9,3 +9,4 @@ c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\E
 c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.csproj.GenerateResource.Cache
 c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.exe
 c:\users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.pdb
+C:\Users\lucia\documents\visual studio 2015\Projects\ExMySql\ExMySql\obj\Debug\ExMySql.FrmTeste.resources
