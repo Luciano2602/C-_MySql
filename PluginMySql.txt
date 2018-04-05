@@ -1,0 +1,13 @@
+https://github.com/rsn86/MWB-DBDocPy <- endereço do plugin
+
+gerar a doc
+no painel iniciar -> na setinha -> criar modelo para db
+
+file->Export (pdf,png)
+
+
+Scripting-> install plugin/module
+Reiniciar
+
+com o diagrama abero
+Tolls->catalog->html, abrir com o crome- o ie traz um XML
