@@ -11,3 +11,6 @@ Reiniciar
 
 com o diagrama abero
 Tolls->catalog->html, abrir com o crome- o ie traz um XML
+
+dump
+Server -> DataExport-> escolher o banco
